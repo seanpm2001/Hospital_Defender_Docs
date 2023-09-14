@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⛑️🏥️📖️ The official documentation source repository for Hospital Defender, a specialized anti-malware and security tool designed specifically for hospitals and other medical centers. Not intended for other usage.
