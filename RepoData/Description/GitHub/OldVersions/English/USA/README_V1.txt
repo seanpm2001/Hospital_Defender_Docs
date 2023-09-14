@@ -1,0 +1,1 @@
+⛑️🏥️📖️ The official documentation source repository for Hospital Defender, a specialized anti-malware and security tool designed specifically for hospitals and other medical centers. Not intended for other usage.
